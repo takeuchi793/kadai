@@ -11,4 +11,4 @@ const hasCat = true
 console.log(hasDog||hasCat)
 console.log(hasDog&&hasCat)
 //犬も猫も飼っていない
-console.log(!hasDog&&!hasCta)
+console.log(!hasDog&&!hasCat)
